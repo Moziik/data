@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T16:04:59.066Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yVn6IME5O2bujS7FFKcM" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T16:30:20.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Eirqsim6H3l0gIuo_uwe" version="20.6.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1048" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1575" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Linear Regression&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Models a target prediction value on independent variables;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Variables - Forecasting;&lt;/div&gt;&lt;div&gt;Independent variables(exogenous, predictor v.) or regressors&lt;/div&gt;" style="text;html=1;strokeColor=#3A5431;fillColor=#6d8764;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="30" y="630" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1605" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Bayesian Algorithm Classifier&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;assumes the presence of particular feature in a class is unrelated to the presence of any other feature&lt;/div&gt;" style="text;html=1;strokeColor=#3A5431;fillColor=#6d8764;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="210" y="891.5" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1606" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;R.F.C. /R.F.A.&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Collective of decision trees to classify new object based on its attributes, each tree is classified and &quot;votes&quot; for that class. The forest chooses the most votes as best classificatioin&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#3A5431;fillColor=#6d8764;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="650" y="802.25" width="190" height="138.5" as="geometry" />
+        </mxCell>
         <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1595" value="" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=none;strokeColor=#1699D3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1440" y="930" width="120" height="120" as="geometry" />
         </mxCell>
@@ -20,7 +29,7 @@
           <mxGeometry x="825" y="921.5000000000001" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1357" value="Classification" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="973.5" y="411.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1000" y="416.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1359" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;startArrow=none;" parent="1" source="ovnjhij0Bc4GCVJ0BtZU-1581" target="1350" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -49,10 +58,10 @@
         <mxCell id="1370" value="Giraffe" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="460" y="191.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1371" value="Dog" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1371" value="IoT" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="510" y="131.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1373" value="Leopard" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1373" value="Sensors" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="710" y="131.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1374" value="Horse" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -113,7 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1398" value="Regression" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1238.5" y="401.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1238.5" y="416.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1399" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1351" target="1357" edge="1">
           <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
@@ -128,7 +137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1437" value="Supervised Learning" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="601.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1358.5" y="601.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1444" value="Reinforment Learning" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1440" y="970" width="120" height="40" as="geometry" />
@@ -136,7 +145,7 @@
         <mxCell id="1445" value="Unsupervised Learning" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1358.5" y="730" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1448" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1353" target="1437" edge="1">
+        <mxCell id="1448" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="1353" target="1437" edge="1">
           <mxGeometry x="-610" y="141.5" width="100" height="100" as="geometry">
             <mxPoint x="-610" y="241.5" as="sourcePoint" />
             <mxPoint x="-510" y="141.5" as="targetPoint" />
@@ -148,16 +157,16 @@
             <mxPoint x="-510" y="141.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1456" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1353" target="1445" edge="1">
+        <mxCell id="1456" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="1353" target="1445" edge="1">
           <mxGeometry x="-610" y="141.5" width="100" height="100" as="geometry">
             <mxPoint x="-610" y="241.5" as="sourcePoint" />
             <mxPoint x="-510" y="141.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1470" value="Labeled" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="820.0000000000001" width="120" height="40" as="geometry" />
+        <mxCell id="1470" value="Labeled" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#003366;glass=1;sketch=0;opacity=70;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1030" y="851.5000000000001" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1471" value="Static" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1471" value="Static" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#003366;glass=1;opacity=70;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1030" y="970" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1472" value="RNN" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -224,10 +233,10 @@
           <mxGeometry x="600" y="561.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1524" value="KNN Algorithm" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="538.5" y="900" width="120" height="40" as="geometry" />
+          <mxGeometry x="523.5" y="851.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1525" value="Naive Bayes Algorithm" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="282" y="891.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="310" y="860" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1528" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1517" edge="1">
           <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
@@ -350,9 +359,6 @@
         <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1574" value="Subset" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="ovnjhij0Bc4GCVJ0BtZU-1573">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1575" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Linear Re.&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Models a target prediction value on independent variables;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Variables - Forecasting;&lt;/div&gt;&lt;div&gt;Independent variables(exogenous, predictor v.) or regressors&lt;/div&gt;" style="text;html=1;strokeColor=#3A5431;fillColor=#6d8764;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="8.5" y="636.5" width="190" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="1527" value="SVM algorithm" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="220" y="791.5" width="120" height="40" as="geometry" />
         </mxCell>
@@ -397,10 +403,10 @@
         <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1584" value="Transfer learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="847.5" y="416.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1586" value="En&amp;nbsp;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="820" width="120" height="40" as="geometry" />
+        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1586" value="En&amp;nbsp;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#003366;glass=1;opacity=70;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1170" y="851.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1587" value="Static" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1587" value="Static" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#003366;glass=1;opacity=70;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1030" y="1090" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1588" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;dashed=1;shadow=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1355" target="ovnjhij0Bc4GCVJ0BtZU-1587">
@@ -409,10 +415,10 @@
             <mxPoint x="1071.0247349823321" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1589" value="Dinamic" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1589" value="Dinamic" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#003366;glass=1;opacity=70;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1170" y="970" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1590" value="Envirumental Interactive" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1590" value="Envirumental Interactive" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#003366;glass=1;opacity=70;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1170" y="1090" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1591" value="S" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#3A5431;fillColor=#6d8764;" edge="1" parent="1" target="1515">
@@ -444,6 +450,27 @@
             <mxPoint x="1300" y="1110" as="sourcePoint" />
             <mxPoint x="1460.7199999999998" y="983" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1599" value="&lt;h1&gt;Designed by: Petteri Mo 2022&lt;/h1&gt;&lt;p&gt;Welcome for any comments and questions&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;fontSize=12;fontColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1020" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1600" value="Architecture" style="endArrow=classic;html=1;rounded=0;shadow=1;dashed=1;strokeColor=#67AB9F;fontSize=12;fontColor=#003366;shape=arrow;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="1373" target="1371">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="390" as="sourcePoint" />
+            <mxPoint x="840" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1601" value="" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=1;glass=1;sketch=0;strokeColor=#003366;strokeWidth=3;fontSize=12;fontColor=#003366;fillColor=none;gradientColor=none;opacity=70;" connectable="0" vertex="1" parent="ovnjhij0Bc4GCVJ0BtZU-1600">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1602" value="Source" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;rounded=1;glass=1;sketch=0;strokeColor=#003366;strokeWidth=3;fontSize=12;fontColor=#003366;fillColor=none;gradientColor=none;opacity=70;" connectable="0" vertex="1" parent="ovnjhij0Bc4GCVJ0BtZU-1600">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1603" value="Target" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;rounded=1;glass=1;sketch=0;strokeColor=#003366;strokeWidth=3;fontSize=12;fontColor=#003366;fillColor=none;gradientColor=none;opacity=70;" connectable="0" vertex="1" parent="ovnjhij0Bc4GCVJ0BtZU-1600">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ovnjhij0Bc4GCVJ0BtZU-1604" value="&lt;h1&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Support Vector Machine&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;Plot raw data as points in n-dimensional space(n=no. of features) Value of features tied to particular coordinate, making it easy to classify data&lt;/div&gt;" style="text;html=1;strokeColor=#3A5431;fillColor=#6d8764;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="8.5" y="791.5" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
